@@ -34,15 +34,27 @@ p:nth-child(2) {
     color: #CC0000;
 }
 .negative {
-	padding: 5px;
-	border-left: 1px solid black;
+	text-align: right;
 	color: red;
 	background-color: #00FF00;
 }
-.topth {
-    padding:5px;
-    border-left:1px solid black;
+
 }
 #background {
     background-color: #F0F8FF;
+    font-family: Arial, Verdana, Sans-serif;
+}
+.money {
+    text-align: right;
+}
+td {
+    padding: 7px 10px 10px 10px;
+}
+th {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 90%;
+    border-bottom: 2px solid #111111;
+    border-top: 1px solid #999;
+    text-align: left;
 }
