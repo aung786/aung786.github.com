@@ -1,0 +1,48 @@
+img {
+	width: 300px;
+	height: 200px;
+	border: 2px solid #6495ED;
+}
+#intro {
+    color: #B83C3A;
+   }
+#small {
+	color: #CC0005;
+}
+a {
+	text-decoration: none;
+	 color: #008B45;
+	}
+a:hover {
+    color: #00FF00;
+}
+a:visited {
+    color: #EE9A00;
+}
+.fancy {
+    font-family: Cursive;
+    color: violet;
+}
+#serious {
+    font-family: Courier;
+    color: #8C8C8C;
+}
+p:first-child {
+    font-family: Cursive;
+}
+p:nth-child(2) {
+    color: #CC0000;
+}
+.negative {
+	padding: 5px;
+	border-left: 1px solid black;
+	color:red;
+	background-color: #00FF00;
+}
+.topth {
+    padding:5px;
+    border-left:1px solid black;
+}
+#background {
+    background-color: #F0F8FF;
+}
