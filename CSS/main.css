@@ -36,7 +36,7 @@ p:nth-child(2) {
 .negative {
 	padding: 5px;
 	border-left: 1px solid black;
-	color:red;
+	color: red;
 	background-color: #00FF00;
 }
 .topth {
